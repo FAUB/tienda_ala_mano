@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="279981c5-0a70-4e19-9c1a-0bd502317c78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\fabio\.android\avd\Nexus_One_API_26.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20rdjeqTZKbWSEV77MwRbxP26JD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/app" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DesarrolloMovil\ProyectosFlutter\tienda_ala_mano\android\app" />
+      <recent name="C:\DesarrolloMovil\ProyectosFlutter\tienda_ala_mano\lib\image" />
+      <recent name="C:\DesarrolloMovil\ProyectosFlutter\tienda_ala_mano\lib\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DesarrolloMovil\ProyectosFlutter\tienda_ala_mano\images" />
+      <recent name="C:\DesarrolloMovil\ProyectosFlutter\tienda_ala_mano\lib\view" />
+      <recent name="C:\DesarrolloMovil\ProyectosFlutter\tienda_ala_mano\lib\model" />
+      <recent name="C:\DesarrolloMovil\ProyectosFlutter\tienda_ala_mano\lib\persistence" />
+      <recent name="C:\DesarrolloMovil\ProyectosFlutter\tienda_ala_mano\lib\pruebas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="customer_form.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/pruebas/customer_form.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="google_maps_view.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/view/google_maps_view.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="productos_form.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/pruebas/productos_form.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="register_user.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/view/register_user.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_view_v2.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/view/user_view_v2.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.productos_form.dart" />
+        <item itemvalue="Flutter.customer_form.dart" />
+        <item itemvalue="Flutter.user_view_v2.dart" />
+        <item itemvalue="Flutter.google_maps_view.dart" />
+        <item itemvalue="Flutter.register_user.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="279981c5-0a70-4e19-9c1a-0bd502317c78" name="Default Changelist" comment="" />
+      <created>1636806814571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636806814571</updated>
+    </task>
+    <servers />
+  </component>
+</project>

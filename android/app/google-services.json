@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325563560106",
+    "project_id": "tiendaalamano",
+    "storage_bucket": "tiendaalamano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325563560106:android:20ad5442d5003d04afe0d3",
+        "android_client_info": {
+          "package_name": "com.alamano.tienda_ala_mano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325563560106-6eomakrql8ibv907flnvql7idm5m3mk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0XI322ptxRk3TqppGpyi7qSOBTRdb-0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325563560106-6eomakrql8ibv907flnvql7idm5m3mk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
